@@ -1,0 +1,10 @@
+﻿  Character.cpp
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Character.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SpellMe.cpp
+C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Weapon.cpp
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  SpellMe.vcxproj -> C:\Users\Krista\source\repos\SpellMe\Debug\SpellMe.exe
