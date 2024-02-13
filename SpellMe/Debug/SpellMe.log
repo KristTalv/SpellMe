@@ -1,10 +1,16 @@
 ﻿  Character.cpp
 C:\Users\Krista\source\repos\SpellMe\SpellMe\Character.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Character.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   SpellMe.cpp
 C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Character.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Krista\source\repos\SpellMe\SpellMe\SpellMe.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Weapon.cpp
 C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.h(10,9): error C3646: 'config': unknown override specifier
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.h(10,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.h(11,24): error C2065: 'config': undeclared identifier
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.h(12,15): error C2065: 'config': undeclared identifier
+C:\Users\Krista\source\repos\SpellMe\SpellMe\Weapon.h(13,18): error C2065: 'config': undeclared identifier
   Generating Code...
-  SpellMe.vcxproj -> C:\Users\Krista\source\repos\SpellMe\Debug\SpellMe.exe

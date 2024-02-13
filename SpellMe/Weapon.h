@@ -6,6 +6,11 @@ using namespace std;
 
 class Weapon
 {
+private:
+	Config config;
+	string myWeaponName = config.myWeaponName;
+	int toHitt = config.toHit;
+	int addDamage = config.addDamage;
 public:
 	const string _nameWeapon;
 	const int _toHit;
@@ -17,6 +22,6 @@ public:
 	int ToHit(int dice);
 
 	// Konstruktori
-	Weapon() :_nameWeapon("LongSword"), _toHit(5), _damageAdd(5), _totalDamage(0), _toHitTotal(0) {}
+	Weapon() :_nameWeapon(myWeaponName), _toHit(toHitt), _damageAdd(addDamage), _totalDamage(0), _toHitTotal(0) {}
 };
 

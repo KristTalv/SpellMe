@@ -15,7 +15,7 @@ int main()
 	Weapon longSword;
 	Config config;
 
-	cout << config.managerInfo;
+	cout << config._managerInfo;
 	myCharacter.PrintAll();
 
 	while (isOn)
